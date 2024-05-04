@@ -1,0 +1,22 @@
+body {
+    color: #111;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+table, tr , th , td {
+    border: 1px solid red;
+    width: 800px;
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+    border-spacing: 5px;
+}
+
+th{
+    background: hotpink;
+    text-transform: uppercase;
+}
+tr{
+    background: wheat;
+}
+
+
